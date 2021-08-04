@@ -1,4 +1,4 @@
-# chang_DNS_for_IOS
+# IOS修改DNS教程
 
 
 ### IPhone手机配置WiFi的DNS，那么如何设置呢，下面为详细步骤：
